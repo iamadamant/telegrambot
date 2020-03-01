@@ -1,3 +1,3 @@
 # telegrambot
 
-You need run 'bot.py'
+You need to run 'bot.py'
